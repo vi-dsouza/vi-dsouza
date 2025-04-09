@@ -6,8 +6,6 @@
 # 🎯 Sobre
 Sou Vitória, formada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Triângulo Mineiro (IFTM) - Campus Patrocínio. Atualmente, dedico-me a estudos para seguir carreira em Análise de Dados, mas também possuo interesse em áreas como desenvolvimento mobile nativo (Android), desenvolvimento web e inteligência artificial. 
 
-Ao final da graduação, tive a oportunidade de ingressar na área de pesquisa científica, com um tema relacionado à saúde e aprendizado de máquina. Essa experiência resultou em duas publicações em revistas internacionais, um registro do software desenvolvido e a premiação como destaque no XIII Seminário de Iniciação Científica e Inovação Tecnológica do IFTM.
-
 Atualmente, curso pós-graduação em Gestão Estratégica de Negócios, também no IFTM. Busco uma oportunidade no mercado de TI para aprimorar minhas habilidades e aprender continuamente.
 
 # 📲 Entre em contato comigo  

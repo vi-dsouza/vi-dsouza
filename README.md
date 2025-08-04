@@ -1,57 +1,98 @@
+<h1 align="center">Olá, eu sou a Vitória 😊</h1>
 
-# Vitória Stéfane de Souza 😊
-### Analista de Sistemas | Analista de Dados | Inteligência Artificial | Python | Java | SQL 
-📌Patrocínio, MG - Brasil
+<h3 align="center"><em>Analista de Sistemas • Análise de Dados • Inteligência Artificial • Python • Java • SQL</em></h3>
 
-# 🎯 Sobre
-Sou Vitória, formada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Triângulo Mineiro (IFTM) - Campus Patrocínio. Atualmente, dedico-me a estudos para seguir carreira em Análise de Dados, mas também possuo interesse em áreas como desenvolvimento mobile nativo (Android), desenvolvimento web e inteligência artificial. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B026FF&center=true&vCenter=true&width=700&lines=Desenvolvedora+em+constante+aprendizado;Apaixonada+por+tecnologia+e+dados;Aberta+a+novas+oportunidades" alt="Typing SVG" />
+</p>
 
-Atualmente, curso pós-graduação em Gestão Estratégica de Negócios, também no IFTM. Busco uma oportunidade no mercado de TI para aprimorar minhas habilidades e aprender continuamente.
+---
 
-# 📲 Entre em contato comigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-st%C3%A9fane-de-souza-1b100a1a0/) 
+## 🎯 Sobre mim
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vi-dsouza)
+🎓 Graduada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Triângulo Mineiro (IFTM) - Campus Patrocínio  
+📚 Pós-graduada em Gestão Estratégica de Negócios pelo Instituto Federal do Triângulo Mineiro (IFTM) - Campus Patrocínio  
+💼 Buscando oportunidades na área de TI  
+🌎 Patrocínio - MG, Brasil  
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vitoriasteffane5@gmail.com)
- 
-# 📊 Estatísticas
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vi-dsouza&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 🌐 Contato
 
-# 💻 Linguagens Utilizadas
+<p align="left">
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-st%C3%A9fane-de-souza-1b100a1a0/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://github.com/vi-dsouza" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="mailto:vitoriasteffane5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vi-dsouza&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+---
 
-## Linguagens de Marcação e Estilo
+## 💼 Tecnologias & Ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 👩‍💻 Linguagens de Programação
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+</p>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-## Linguagens de Programação
+### 🖼️ Frontend e Estilo
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🗃️ Banco de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+</p>
 
+---
 
-## Bibliotecas e Frameworks
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+### ☁️ Cloud / Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" style="margin-right: 10px;"/>
+</p>
 
-## Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+---
 
-## Serviço de computação em nuvem
-![Firebase](https://img.shields.io/badge/FIREBASE-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
+### 🧰 Ferramentas e IDEs
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+</p>
 
-## Sistema Operacional
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+---
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### 🖥️ Sistemas Operacionais
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" style="margin-right: 10px;"/>
+</p>
 
-## Ferramentas
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-6DA55F?style=for-the-badge&logo=android&logoColor=white)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vi-dsouza&show_icons=true&theme=radical&border_color=F2709C" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vi-dsouza&layout=compact&theme=radical&border_color=F2709C" />
+</p>
+
+---
+
+## 💡 Curiosidade
+
+> “A tecnologia é o poder mais próximo da magia que temos. E eu quero dominá-la.” ✨
 

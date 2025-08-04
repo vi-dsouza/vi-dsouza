@@ -14,6 +14,7 @@
 📚 Pós-graduada em Gestão Estratégica de Negócios pelo Instituto Federal do Triângulo Mineiro (IFTM) - Campus Patrocínio  
 💼 Buscando oportunidades na área de TI  
 🌎 Patrocínio - MG, Brasil  
+🌐 [Website](https://souzacodigital.netlify.app)
 
 ---
 

@@ -34,6 +34,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vi-dsouza&show_icons=true&theme=radical&border_color=F2709C" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vi-dsouza&layout=compact&theme=radical&border_color=F2709C" />
+</p>
+
+---
+
 ## 💼 Tecnologias & Ferramentas
 
 ### 👩‍💻 Linguagens de Programação
@@ -80,15 +89,6 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" style="margin-right: 10px;"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vi-dsouza&show_icons=true&theme=radical&border_color=F2709C" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vi-dsouza&layout=compact&theme=radical&border_color=F2709C" />
 </p>
 
 ---
